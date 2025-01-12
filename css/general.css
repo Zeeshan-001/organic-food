@@ -252,8 +252,8 @@ body {
   gap: 1.6rem;
 }
 
-.list-item {
-  font-size: 1.8rem;
+ul.list li {
+  font-size: 1.6rem;
   display: flex;
   align-items: center;
   gap: 1.6rem;
