@@ -636,14 +636,14 @@
 
 .footer-heading {
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 4rem;
 }
 
 .contacts {
   font-style: normal;
-  font-size: 1.6rem;
-  line-height: 1.6;
+  font-size: 0.6rem;
+  line-height: 0.6;
 }
 
 .address {
